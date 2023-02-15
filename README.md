@@ -9,3 +9,4 @@ rebase
 stash練習
 stash練習(トラック済み)
 stash練習(2nd)
+tag同士で比較
